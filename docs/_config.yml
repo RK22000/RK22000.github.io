@@ -1,3 +1,13 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme 
+
+
+title: ROBTAA
+description: >-
+    Welcome to Rahul's Online Blog That's (hopefully) Accssible  Anywhere with a
+    reasonable internet connection.
+github:
+    repository_url: https://github.com/RK22000/RK22000.github.io/
+    owner_url: https://github.com/RK22000
+    owner_name: RK22000 
