@@ -1,7 +1,7 @@
 ---
 ---
 
-It finally happened. After all that time spent laughing at folks suffered from this mistake, I accidentally typed `rm /*` instead of `rm ./*`. 
+It finally happened. After all that time spent laughing at folks who suffered from this mistake, I accidentally typed `rm /*` instead of `rm ./*`. 
 
 It happened while I was making this blog site. I had `dev` branch where I was initially experimenting with how some stuff on Jekyll worked and after a little experimenting I felt ready to actually start making this site. So I made a `midnight-theme/dev` branch from `dev` with the intent of eventually merging it back into `dev`. First order of business get rid of everything to I can start fresh from scratch.
 
