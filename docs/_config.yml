@@ -11,3 +11,13 @@ github:
     repository_url: https://github.com/RK22000/RK22000.github.io/
     owner_url: https://github.com/RK22000
     owner_name: RK22000 
+
+
+
+
+
+defaults:
+    - scope:
+        path: ""
+      values:
+        layout: "default"
