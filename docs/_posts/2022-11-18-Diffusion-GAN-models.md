@@ -12,7 +12,7 @@ Thursday evenings. I barely understood anything the first few times we met but r
 ## Diffusion models
 Here's what I understood about how diffusion based generative models work.
 
-Imagine you see this blurry image
+Imagine you see this distorted image
 
 > ![Blurry Aang Haggling]({{page.aang}}0.5.png)
 >
