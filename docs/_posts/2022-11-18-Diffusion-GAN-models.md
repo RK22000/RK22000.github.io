@@ -59,10 +59,10 @@ Now `Fig. 5` may look like the same kind of extremely distorted image as `Fig. 4
 fact actually just random noise. And yet a well trained network will be able to restore this into an image
 of Aang.
 
-Theres more I wanna write but good night for now!
+Theres more I wanna write but good night for now! Till then you can check out the code I wrote to generate 
+the distorted images [here](https://github.com/RK22000/noisy-image/blob/main/Image_Distortion.ipynb)
 
 ### References
-
 
 > Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise 
 >
