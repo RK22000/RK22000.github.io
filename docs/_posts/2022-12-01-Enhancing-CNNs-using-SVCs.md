@@ -1,6 +1,6 @@
 ---
 ---
-## Late night post cuz this kept me up
+Support Vector Classifier (SVC) is a cool technique to classify stuff but I haven't seen it be used for image classification. In this post I'm writing about my experiment to classify images using an SVC by preprocessing the images using a CNN.
 
 ### The Problem
 SVCs are a cool idea but I haven't seen a way to use it for image classification.
