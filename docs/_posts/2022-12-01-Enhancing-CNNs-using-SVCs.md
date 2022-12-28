@@ -3,7 +3,7 @@
 Support Vector Classifier (SVC) is a cool technique to classify stuff but I haven't seen it be used for image classification. In this post I'm writing about my experiment to classify images using an SVC by preprocessing the images using a CNN.
 
 ### The Problem
-SVCs are a cool idea but I haven't seen a way to use it for image classification.
+SVCs are a cool idea but I haven't seen a nice way to use it for image classification.
 
 I've heard Support Vector Classifiers (SVCs) are really good at classifying data made up of distinct values, but building up an SVC gets much harder as the number of values in each data point increases. So classifying data that looks like [a, b, c, ..., x, y, z] is going to be much harder than classifying data that looks like [a, b, c]. For this reason its kinda unreasonable to use an SVC to classify images. An image just has too many data points (in pixel values) for an SVC to consider.
 
